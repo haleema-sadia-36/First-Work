@@ -1,2 +1,2 @@
-# This-is-my-first-work
+# Project
 This is my First Git Repository
